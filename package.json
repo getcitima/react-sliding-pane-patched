@@ -41,7 +41,7 @@
   "dependencies": {
     "prop-types": "^15.7.2",
     "react-modal": "^3.11.2",
-    "rollup-plugin-postcss": "^3.1.1"
+    "rollup-plugin-postcss": "^4.0.2"
   },
   "peerDependencies": {
     "react": "^16.13.1",
